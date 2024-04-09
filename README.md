@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mariamartinezz
 - 😄 I’m currently trying to do my best in phython
-- 📫 How to reach me - u cant
 - 😄 Pronouns Mariah caray
 
 <!---
